@@ -1,0 +1,2 @@
+def getCurrentBranch():
+    return "dummy";
